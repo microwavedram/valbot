@@ -2,7 +2,7 @@
     "bindStratsAttackers":[
         [
           "Is there enough space?",
-          "Whenever a enemy appears onto the screen you must jump 5 times"
+          "Whenever a enemy appears onto the screen you must jump 2 times before you can shoot or us Util"
        ],
        [
           "Is this CS:GO???",
@@ -22,7 +22,7 @@
        ],
        [
           "Is that a tornado?",
-          "Everytime a teammate dies, they must constantly blow into their mic simulating a wind sound. They cannot stop until the round is over."
+          "Everytime a teammate dies, they must constantly blow into their mic simulating a wind sound. They cannot stop until the round is over.You may not cheat the system by lowering volume or muting others or any other shenanigans"
        ],
        [
           "Wild west",
@@ -30,11 +30,11 @@
        ],
        [
           "How do I stand up?",
-          "Everyone on your team must play the entire round crouched, you can not standup at any time for any reason."
+          "Everyone on your team must play the entire round crouched, you can not standup at any time for any reason.If an ability or UI bug or anything forces you to uncrouch , you must recrouch immediately"
        ],
        [
           "I think my W key is stuck",
-          "you must hold the W key for the entire round and you are not allowed to walk"
+          "you must hold the W key for the entire round and you are not allowed to walk or crouch (run only)"
        ],
        [
           "Evasive maneuvers",
@@ -46,11 +46,11 @@
        ],
        [
           "Glass cannon",
-          "Each teammate must buy the most expensive weapon they can afford, but they are not allowed to have any armor."
+          "Each teammate must buy the most expensive weapon they can afford (even already have an expensive wepon,you must buy the the most expensive weapon you can afford provided its more expensive) and you must but the most expensive scondary after you have bought the primary (you must in this order) ,also the are not allowed to have any armor."
        ],
        [
           "Confusing callouts",
-          "Play the round normally, however, you cannot use any normal callouts. Preferably use callouts that don't exist on this map, callouts from other games/maps, or just very broadly describe what you are trying to callout. Sounding confident is key for this strat."
+          "Play the round normally, however, you cannot use any normal callouts.for Preferably use callouts that don't exist on this map, callouts from other games/maps, or just very broadly describe what you are trying to callout.this for example means being obscure with spesific: people , places ,directions and more... Sounding confident is key for this strat."
        ],
        [
           "Knives out",
@@ -66,11 +66,11 @@
        ],
        [
           "Odin rush",
-          "If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin."
+          "If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin and if any player can't get an ares, then but the most expensive gun everyone on the team can afford."
        ],
        [
           "Motivational speech",
-          "Elect one player on your team to give a motivational speech at the start of the round. No one is allowed to leave spawn until the speech is finished. Once the speech is over, your whole team must rush one of the sites."
+          "Elect one player on your team to give a motivational speech at the start of the round. No one is allowed to leave spawn until the speech is finished.The speech must be meaningfull in language and in length (of time). Once the speech is over, your whole team must rush one of the sites."
        ],
        [
           "Sneaky-Beaky like",
@@ -79,6 +79,10 @@
        [
           "The fakeout",
           "Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities as fast as you can on the site. Then quickly retreat and plant the spike at a different site."
+       ],
+        [
+          "The RUSH",
+          "Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities  on the site. Then quickly the site,you can't rotate and must plant at the 'rushed' site."
        ],
        [
           "Woah a teleporter",
