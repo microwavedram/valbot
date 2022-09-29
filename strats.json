@@ -1,5 +1,9 @@
 {
     "bindStratsAttackers":[
+        [
+          "Is there enough space?",
+          "Whenever a enemy appears onto the screen you must jump 5 times"
+       ],
        [
           "Is this CS:GO???",
           "No one on your team is allowed to use any abilities for this round. You might as well just be playing CS:GO."
@@ -34,11 +38,11 @@
        ],
        [
           "Evasive maneuvers",
-          "You must jump every time you turn or peak a corner."
+          "You must jump every time you peak a corner."
        ],
        [
           "One mic",
-          "Whoever is at the bottom of the scoreboard for your team is the only person allowed to use their mic this round. They must attempt to make callouts for all of their teammates. They clearly aren't getting kills anyway, so don't worry if this hinders their playing."
+          "Whoever is at the bottom of the scoreboard (Bottom frager) for your team is the only person allowed to use their mic this round. They must attempt to make callouts for all of their teammates. They clearly aren't getting kills anyway, so don't worry if this hinders their playing."
        ],
        [
           "Glass cannon",
