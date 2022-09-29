@@ -82,12 +82,12 @@
        },
        {
            "title":"Follow the leader",
-           "description":"Elect a teammate to be the leader, your whole team must move in a line everywhere that they travel following the leader. No one can stray away from the line.",
+           "description":"Elect a teammate to be the leader, your whole team must move in a line everywhere that they travel following the leader. No one can stray away from the line.If the leader dies then the next person in line becomes the new leader.",
            "team":"any"
        },
        {
            "title":"Odin rush",
-           "description":"If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin and if any player can't get an ares, then but the most expensive gun everyone on the team can afford.",
+           "description":"If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin and if any player can't get an ares, then everyone must buy the most expensive gun everyone on the team can afford.",
            "team":"any"
        },
        {
@@ -103,11 +103,6 @@
        {
            "title":"The fakeout",
            "description":"Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities as fast as you can on the site. Then quickly retreat and plant the spike at a different site.",
-           "team":"any"
-       },
-       {
-           "title":"Woah a teleporter",
-           "description":"Everyone on your team must have used a teleporter at least 3 times each before you are allowed to plant the spike.",
            "team":"any"
        },
        {
@@ -178,27 +173,33 @@
        "split":[
            {
                "title":"Ropes scare me",
-               "description":"You must play the entire round without using the ropes at all.",
+               "description":"You must play the entire round without using any ziplines (whether to go up or across the map).",
                "team":"any"
            },
            {
                "title":"Just here in my garage",
                "description":"Your whole team must make it into garage and are not allowed to leave unless the spike is planted. For motivation, remember you are protecting your KNOWLEDGE and brand-new lamborghini.",
-               "team":"any"
+               "team":"d"
            }
        ],
        "haven":[
            {
                "title":"Gambling",
-               "description":"Your whole team must go to one spikesite to defend. You've got a 1/3 chance to choose the right one, goodluck.",
-               "team":"any"
+               "description":"Your whole team must go to one spikesite to defend. You've got a 1/3 chance to choose the right one, goodluck.If the spike is planted on a diffrent point then the team may move point.",
+               "team":"d"
            }
        ],
        "bind":[
            {
+               "title":"Woah a teleporter",
+               "description":"Everyone on your team must have used a teleporter at least 3 times each before you are allowed to plant the spike.",
+               "team":"any"
+        },
+           {
                "title":"Teleporter guardians",
                "description":"Allocate two players on your team to be the teleporter guardians. They must immediately get into the two teleporters as fast as they can. They are not allowed to leave the teleporters and must defend them with their lives.",
                "team":"any"
+             
            }
       ]
    }
