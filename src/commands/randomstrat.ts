@@ -17,7 +17,11 @@ export const cmd: Command = {
             .addChoice("bind","bind")
             .addChoice("haven","haven")
             .addChoice("split","split")
+            .addChoice("pearl","pearl")
+            .addChoice("icebox","icebox")
             .addChoice("ascent","ascent")
+            .addChoice("breeze","breeze")
+            .addChoice("fracture","fracture")
             .setDescription("The map for the strat")
             .setRequired(true)
         )
@@ -31,13 +35,36 @@ export const cmd: Command = {
     execute: async (interaction) => {
         const strats = require("../../strats.json")
 
-        let message = "";
+        let map: string | null = interaction.options.getString("map") || ""
+        let team: string | null = interaction.options.getString("team") || ""
 
-        
+        let pool: any[] = [];
+
+
+        for (let i = 0; i < strats["common"].length; i++) {
+            const element = strats["common"][i];
+            
+            if (element["team"] != "any" && element["team"] != team) continue
+
+            pool.push(element)
+        }
+
+        if (map in strats) {
+            for (let index = 0; index < strats[map].length; index++) {
+                const element = strats[map][index];
+                
+                if (element["team"] != "any" && element["team"] != team) continue
+
+                pool.push(element)
+            }
+        }
+
+        const choice = pool[Math.floor(Math.random() * pool.length)]
+
         const embed = new Embed()
-        embed.setTitle(message[0])
+        embed.setTitle(choice["title"])
         embed.setTimestamp()
-        embed.setDescription(message[1])
+        embed.setDescription(choice["description"])
 
         interaction.reply({embeds: [embed]})
     }
