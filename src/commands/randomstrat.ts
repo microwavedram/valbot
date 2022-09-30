@@ -59,7 +59,7 @@ export const cmd: Command = {
             }
         }
 
-        const choice = pool[Math.floor(Math.random() * pool.length)]
+        const choice = randomFromArray(pool)
 
         const embed = new Embed()
         embed.setTitle(choice["title"])
