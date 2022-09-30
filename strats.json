@@ -1,206 +1,203 @@
 {
-   "common":[
-       {
-           "title": "The RUSH",
-           "description": "Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities  on the site. You can't rotate and must plant at the 'rushed' site.",
-           "team":"a"
-       },
-       {
-           "title":"Is there enough space?",
-           "description":"Whenever a enemy appears onto the screen you must jump one time. You can fire after you have left the floor",
-           "team":"any"
-       },
-       {
-           "title":"Is this CS:GO???",
-           "description":"No one on your team is allowed to use any abilities for this round. You might as well just be playing CS:GO.",
-           "team":"any"
-       },
-       {
-           "title":"Shoutcasters",
-           "description":"Every player that is alive must narrate every action that they make. Do this as a shoutcaster would while spectating a professional match. Everyone that is alive must participate but stop if they die.",
-           "team":"any"
-       },
-       {
-           "title":"Gunswap",
-           "description":"Everytime you kill an enemy, you must pick up their gun and use it for your next kill. It doesn't matter what gun they had or how hard it will be to pick up, you cannot get a kill with the exact same gun more than once.",
-           "team":"any"
-       },
-       {
-           "title":"Trickshot",
-           "description":"Everytime you encounter an enemy, you must 360 before you are allowed to shoot them.",
-           "team":"any"
-       },
-       {
-           "title":"Is that a tornado?",
-           "description":"Everytime a teammate dies, they must constantly blow into their mic simulating a wind sound. They cannot stop until the round is over. You cannot mute them or deafen them.",
-           "team":"any"
-       },
-       {
-           "title":"Wild west",
-           "description":"Your whole team must buy only Sheriffs. Armor is allowed, but no other guns. Extra points if you can use a western accent while making callouts",
-           "team":"any"
-       },
-       {
-           "title":"How do I stand up?",
-           "description":"Everyone on your team must play the entire round crouched, if you standup for ANY REASON you must drop all guns and go knife only",
-           "team":"any"
-       },
-       {
-           "title":"I think my W key is stuck",
-           "description":"you must hold the W key for the entire round and you are not allowed to walk or crouch",
-           "team":"any"
-       },
-       {
-           "title":"Evasive maneuvers",
-           "description":"You must jump every time you peak a corner.",
-           "team":"any"
-       },
-       {
-           "title":"One mic",
-           "description":"Whoever is at the bottom of the scoreboard (Bottom frager) for your team is the only person allowed to use their mic this round. They must attempt to make callouts for all of their teammates. They clearly aren't getting kills anyway, so don't worry if this hinders their playing.",
-           "team":"any"
-       },
-       {
-           "title":"Glass cannon",
-           "description":"Each teammate must buy the most expensive primary they can afford, no shields, and the most expensive seccondary.",
-           "team":"any"
-       },
-       {
-           "title":"Confusing callouts",
-           "description":"Play the round normally, however, you cannot use any normal callouts. Preferably use callouts that don't exist on this map, callouts from other games/maps, or just very broadly describe what you are trying to callout. For example, \"we have a new customer\" woudl be a good replacement for \"THEY ARE KILLING ME HELP\"  Sounding confident is key for this strat.",
-           "team":"any"
-       },
-       {
-           "title":"Knives out",
-           "description":"You are only allowed to move if you are currently holding your knife. If you would like to shoot, you must stand stationary and cannot make any movement until you pull your knife back out.",
-           "team":"any"
-       },
-       {
-           "title":"Protect the president",
-           "description":"Elect one teammate to be the 'President' and this player must carry the spike. The President is not allowed to have any guns or abilities, just armor. Your team must surround the president and protect him/her for the entire round.",
-           "team":"any"
-       },
-       {
-           "title":"Follow the leader",
-           "description":"Elect a teammate to be the leader, your whole team must move in a line everywhere that they travel following the leader. No one can stray away from the line.If the leader dies then the next person in line becomes the new leader.",
-           "team":"any"
-       },
-       {
-           "title":"Odin rush",
-           "description":"If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin and if any player can't get an ares, then everyone must buy the most expensive gun everyone on the team can afford.",
-           "team":"any"
-       },
-       {
-           "title":"Motivational speech",
-           "description":"Elect one player on your team to give a motivational speech at the start of the round. No one is allowed to leave spawn until the speech is finished. The speech must be meaningfull in language and in length (of time). Once the speech is over, your whole team must rush one of the sites.",
-           "team":"any"
-       },
-       {
-           "title":"Sneaky-Beaky like",
-           "description":"Your team can only buy surpresssed weapons and no one on the team is allowed to speak for the entire round.",
-           "team":"any"
-       },
-       {
-           "title":"The fakeout",
-           "description":"Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities as fast as you can on the site. Then quickly retreat and plant the spike at a different site.",
-           "team":"any"
-       },
-       {
-           "title":"Sound effects",
-           "description":"You must make sound effects for every action that you do in game, such as shooting guns, using abilities, and of course: taking the teleporter. Try to use the teleporter as much as possible this round, ideally making a different sound each time.",
-           "team":"any"
-       },
-       {
-           "title":"Silent but deadly",
-           "description":"Everyone on your team must set their game's master volume to 0.",
-           "team":"any"
-       },
-       {
-           "title":"Doppelg\u00c3\u00a4nger",
-           "description":"If there is an enemy on the other team with the same agent as you, you must ignore all other enemies until you have killed your doppelg\u00c3\u00a4nger. If you don't have a doppelg\u00c3\u00a4nger, try to let your teammates kill theirs before killing anyone. (credit: rdee3)",
-           "team":"any"
-       },
-       {
-           "title":"X-ray vision",
-           "description":"You are only allowed to kill enemeies through walls. You may peak them to see where they are, but to kill them, it must be through a wall. (credit: dehenergy)",
-           "team":"any"
-       },
-       {
-           "title":"Where are they coming from?",
-           "description":"Everyone on your team must put their headset on backwards for the entire round.",
-           "team":"any"
-       },
-       {
-           "title":"One at a time",
-           "description":"Only one player can leave spawn at a time, the rest of the team must do their best to hide in spawn.",
-           "team":"any"
-       },
-       {
-           "title":"Up close and personal",
-           "description":"Each member of the team can only buy a Shorty or Bucky. Everyone must hide on the bombsites holding close range angles.",
-           "team":"any"
-       },
-       {
-           "title":"Retakes are fun",
-           "description":"Your whole team must hide in spawn until the spike has been planted. You are then allowed to leave spawn and play normally.",
-           "team":"any"
-       },
-       {
-           "title":"Smoke break",
-           "description":"Your whole team must start the round in Hookah and hold it for as long as possible. You may only leave if the spike has been planted.",
-           "team":"any"
-       },
-       {
-           "title":"Intimidation",
-           "description":"Each teammate must buy every ability that they possibly can. Rush mid and use every single ability before eventually taking B site.",
-           "team":"any"
-       },
-       {
-           "title":"Tourists",
-           "description":"Every teammate must visit each spikesite at least once before you are allowed to plant. Try to not kill the entire enemy team before planting.",
-           "team":"any"
-       },
-       {
-           "title":"Fnatic on Inferno",
-           "description":"Each teammate can only have a Classic and armor. They must crouch walk the entire way to A site going long. You may play normally if you get the bomb planted.",
-           "team":"any"
-       }
-   ],
-   "maps":{
-       "ascent":[
-           
-       ],
-       "split":[
-           {
-               "title":"Ropes scare me",
-               "description":"You must play the entire round without using any ziplines (whether to go up or across the map).",
-               "team":"any"
-           },
-           {
-               "title":"Just here in my garage",
-               "description":"Your whole team must make it into garage and are not allowed to leave unless the spike is planted. For motivation, remember you are protecting your KNOWLEDGE and brand-new lamborghini.",
-               "team":"d"
-           }
-       ],
-       "haven":[
-           {
-               "title":"Gambling",
-               "description":"Your whole team must go to one spikesite to defend. You've got a 1/3 chance to choose the right one, goodluck.If the spike is planted on a diffrent point then the team may move point.",
-               "team":"d"
-           }
-       ],
-       "bind":[
-           {
-               "title":"Woah a teleporter",
-               "description":"Everyone on your team must have used a teleporter at least 3 times each before you are allowed to plant the spike.",
-               "team":"any"
+    "common": [
+        {
+            "title": "The RUSH",
+            "description": "Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities  on the site. You can't rotate and must plant at the 'rushed' site.",
+            "team": "a"
         },
-           {
-               "title":"Teleporter guardians",
-               "description":"Allocate two players on your team to be the teleporter guardians. They must immediately get into the two teleporters as fast as they can. They are not allowed to leave the teleporters and must defend them with their lives.",
-               "team":"any"
-             
-           }
-      ]
-   }
+        {
+            "title": "Is there enough space?",
+            "description": "Whenever a enemy appears onto the screen you must jump one time. You can fire after you have left the floor",
+            "team": "any"
+        },
+        {
+            "title": "Is this CS:GO???",
+            "description": "No one on your team is allowed to use any abilities for this round. You might as well just be playing CS:GO.",
+            "team": "any"
+        },
+        {
+            "title": "Shoutcasters",
+            "description": "Every player that is alive must narrate every action that they make. Do this as a shoutcaster would while spectating a professional match. Everyone that is alive must participate but stop if they die.",
+            "team": "any"
+        },
+        {
+            "title": "Gunswap",
+            "description": "Everytime you kill an enemy, you must pick up their gun and use it for your next kill. It doesn't matter what gun they had or how hard it will be to pick up, you cannot get a kill with the exact same gun more than once.",
+            "team": "any"
+        },
+        {
+            "title": "Trickshot",
+            "description": "Everytime you encounter an enemy, you must 360 before you are allowed to shoot them.",
+            "team": "any"
+        },
+        {
+            "title": "Is that a tornado?",
+            "description": "Everytime a teammate dies, they must constantly blow into their mic simulating a wind sound. They cannot stop until the round is over. You cannot mute them or deafen them.",
+            "team": "any"
+        },
+        {
+            "title": "Wild west",
+            "description": "Your whole team must buy only Sheriffs. Armor is allowed, but no other guns. Extra points if you can use a western accent while making callouts",
+            "team": "any"
+        },
+        {
+            "title": "How do I stand up?",
+            "description": "Everyone on your team must play the entire round crouched, if you standup for ANY REASON you must drop all guns and go knife only",
+            "team": "any"
+        },
+        {
+            "title": "I think my W key is stuck",
+            "description": "you must hold the W key for the entire round and you are not allowed to walk or crouch",
+            "team": "any"
+        },
+        {
+            "title": "Evasive maneuvers",
+            "description": "You must jump every time you peak a corner.",
+            "team": "any"
+        },
+        {
+            "title": "One mic",
+            "description": "Whoever is at the bottom of the scoreboard (Bottom frager) for your team is the only person allowed to use their mic this round. They must attempt to make callouts for all of their teammates. They clearly aren't getting kills anyway, so don't worry if this hinders their playing.",
+            "team": "any"
+        },
+        {
+            "title": "Glass cannon",
+            "description": "Each teammate must buy the most expensive primary they can afford, no shields, and the most expensive seccondary.",
+            "team": "any"
+        },
+        {
+            "title": "Confusing callouts",
+            "description": "Play the round normally, however, you cannot use any normal callouts. Preferably use callouts that don't exist on this map, callouts from other games/maps, or just very broadly describe what you are trying to callout. For example, \"we have a new customer\" woudl be a good replacement for \"THEY ARE KILLING ME HELP\"  Sounding confident is key for this strat.",
+            "team": "any"
+        },
+        {
+            "title": "Knives out",
+            "description": "You are only allowed to move if you are currently holding your knife. If you would like to shoot, you must stand stationary and cannot make any movement until you pull your knife back out.",
+            "team": "any"
+        },
+        {
+            "title": "Protect the president",
+            "description": "Elect one teammate to be the 'President' and this player must carry the spike. The President is not allowed to have any guns or abilities, just armor. Your team must surround the president and protect him/her for the entire round.",
+            "team": "a"
+        },
+        {
+            "title": "Follow the leader",
+            "description": "Elect a teammate to be the leader, your whole team must move in a line everywhere that they travel following the leader. No one can stray away from the line.If the leader dies then the next person in line becomes the new leader.",
+            "team": "any"
+        },
+        {
+            "title": "Odin rush",
+            "description": "If your team has the funds to support this, every player must buy an Odin and rush the enemy team as a group, doesn't matter if you are attacking or defending. Buy an Ares if you can't afford an Odin and if any player can't get an ares, then everyone must buy the most expensive gun everyone on the team can afford.",
+            "team": "any"
+        },
+        {
+            "title": "Motivational speech",
+            "description": "Elect one player on your team to give a motivational speech at the start of the round. No one is allowed to leave spawn until the speech is finished. The speech must be meaningfull in language and in length (of time). Once the speech is over, your whole team must rush one of the sites.",
+            "team": "any"
+        },
+        {
+            "title": "Sneaky-Beaky",
+            "description": "Your team can only buy surpresssed weapons and no one on the team is allowed to speak for the entire round.",
+            "team": "any"
+        },
+        {
+            "title": "The fakeout",
+            "description": "Each teammate must buy every ability that they possibly can. Rush towards one of the sites, and use all of your abilities as fast as you can on the site. Then quickly retreat and plant the spike at a different site.",
+            "team": "a"
+        },
+        {
+            "title": "Sound effects",
+            "description": "You must make sound effects for every action that you do in game, such as shooting guns, using abilities, and of course: taking the teleporter. Try to use the teleporter as much as possible this round, ideally making a different sound each time.",
+            "team": "any"
+        },
+        {
+            "title": "Silent but deadly",
+            "description": "Everyone on your team must set their game's master volume to 0.",
+            "team": "any"
+        },
+        {
+            "title": "DoppelgÃ¤nger",
+            "description": "If there is an enemy on the other team with the same agent as you, you must ignore all other enemies until you have killed your doppelgÃ¤nger. If you don't have a doppelgÃ¤nger, try to let your teammates kill theirs before killing anyone. (credit: rdee3)",
+            "team": "any"
+        },
+        {
+            "title": "X-ray vision",
+            "description": "You are only allowed to kill enemeies through walls. You may peak them to see where they are, but to kill them, it must be through a wall. (credit: dehenergy)",
+            "team": "any"
+        },
+        {
+            "title": "Where are they coming from?",
+            "description": "Everyone on your team must put their headset on backwards for the entire round.",
+            "team": "any"
+        },
+        {
+            "title": "One at a time",
+            "description": "Only one player can leave spawn at a time, the rest of the team must do their best to hide in spawn.",
+            "team": "any"
+        },
+        {
+            "title": "Up close and personal",
+            "description": "Each member of the team can only buy a Shorty or Bucky. Everyone must hide on the bombsites holding close range angles.",
+            "team": "d"
+        },
+        {
+            "title": "Retakes are fun",
+            "description": "Your whole team must hide in spawn until the spike has been planted. You are then allowed to leave spawn and play normally.",
+            "team": "d"
+        },
+        {
+            "title": "Intimidation",
+            "description": "Each teammate must buy every ability that they possibly can. Rush mid and use every single ability before eventually taking B site.",
+            "team": "a"
+        },
+        {
+            "title": "Tourists",
+            "description": "Every teammate must visit each spikesite at least once before you are allowed to plant. Try to not kill the entire enemy team before planting.",
+            "team": "d"
+        },
+        {
+            "title": "Fnatic on Inferno",
+            "description": "Each teammate can only have a Classic and armor. They must crouch walk the entire way to A site going long. You may play normally if you get the bomb planted.",
+            "team": "any"
+        }
+    ],
+    "maps": {
+        "ascent": [],
+        "split": [
+            {
+                "title": "Ropes scare me",
+                "description": "You must play the entire round without using any ziplines (whether to go up or across the map).",
+                "team": "any"
+            },
+            {
+                "title": "Just here in my garage",
+                "description": "Your whole team must make it into garage and are not allowed to leave unless the spike is planted. For motivation, remember you are protecting your KNOWLEDGE and brand-new lamborghini.",
+                "team": "d"
+            }
+        ],
+        "haven": [
+            {
+                "title": "Gambling",
+                "description": "Your whole team must go to one spikesite to defend. You've got a 1/3 chance to choose the right one, goodluck.If the spike is planted on a diffrent point then the team may move point.",
+                "team": "d"
+            }
+        ],
+        "bind": [
+            {
+                "title": "Woah a teleporter",
+                "description": "Everyone on your team must have used a teleporter at least 3 times each before you are allowed to plant the spike.",
+                "team": "any"
+            },
+            {
+                "title": "Teleporter guardians",
+                "description": "Allocate two players on your team to be the teleporter guardians. They must immediately get into the two teleporters as fast as they can. They are not allowed to leave the teleporters and must defend them with their lives.",
+                "team": "any"
+            },
+            {
+                "title": "Smoke break",
+                "description": "Your whole team must start the round in Hookah and hold it for as long as possible. You may only leave if the spike has been planted.",
+                "team": "d"
+            }
+        ]
+    }
 }
